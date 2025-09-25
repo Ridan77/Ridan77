@@ -1,15 +1,30 @@
 # Hi, I'm Dan 👋
-Fullstack Developer | Ex-COO | Passionate about building digital solutions
+
+💻 Fullstack Developer (React, Node.js, MongoDB, SQL)  
+📈 Ex-COO & Former VP of Customer Success  
+🌊 Professional Scuba Instructor & Licensed Yacht Skipper  
+
+---
 
 ## 🚀 Tech Stack
-Frontend: React, Redux, Vue, Angular, JavaScript (ES6+), TypeScript  
-Backend: Node.js, Express, REST APIs, Socket.IO  
-Databases: MongoDB, SQL  
-Tools: Git/GitHub, Webpack, Babel, Postman
+**Frontend:** JavaScript (ES6+), TypeScript, React, Vue, Angular, Redux, jQuery, HTML5, CSS3, Bootstrap, Tailwind CSS  
+**Backend:** Node.js, Express, REST APIs, Socket.IO, Python  
+**Databases:** SQL, MongoDB  
+**Tools & DevOps:** Git/GitHub, NPM, Webpack, Babel, Postman, CRM, ERP  
 
-## 📂 Featured Projects
-- [Instagram Clone (React, Node.js, MongoDB)](https://github.com/Ridan77/instgram_frontend)  
-- [Backend API](https://github.com/Ridan77/instagram_backend)  
+---
 
-## 🌊 Fun fact
-Professional Scuba Instructor & Yacht Skipper
+## 📂 Featured Project
+- [InstaStam – Instagram Clone](https://instastam.onrender.com/)  
+  A fullstack web application inspired by Instagram, built with **React, Node.js, and MongoDB**.  
+
+ ### 🔑 Features:
+- User authentication (signup, login, JWT-based sessions)
+- Create, edit, and delete posts with image upload
+- Responsive design (mobile-first UI)
+- MongoDB database with Mongoose ODM
+- Real-time messaging
+
+
+## 🌴 Fun fact
+I’m also a **Professional Scuba Diving Instructor** (PADI) and **Licensed Yacht Skipper** 🌊
