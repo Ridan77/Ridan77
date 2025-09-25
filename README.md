@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
+Fullstack Developer | Ex-COO | Passionate about building digital solutions
 
-<!--
-**Ridan77/Ridan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+Frontend: React, Redux, Vue, Angular, JavaScript (ES6+), TypeScript  
+Backend: Node.js, Express, REST APIs, Socket.IO  
+Databases: MongoDB, SQL  
+Tools: Git/GitHub, Webpack, Babel, Postman
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- [Instagram Clone (React, Node.js, MongoDB)](https://github.com/Ridan77/instgram_frontend)  
+- [Backend API](https://github.com/Ridan77/instagram_backend)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌊 Fun fact
+Professional Scuba Instructor & Yacht Skipper
